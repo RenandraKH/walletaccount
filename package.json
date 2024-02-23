@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LuKks/wallet-accounts.git"
+    "url": "https://github.com/kurniamisbah/walletaccount.git"
   },
-  "author": "Lucas Barrena (LuKks)",
+  "author": "Kurnia (kur)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LuKks/wallet-accounts/issues"
+    "url": "https://github.com/kurniamisbah/walletaccount/issues"
   },
-  "homepage": "https://github.com/LuKks/wallet-accounts",
+  "homepage": "https://github.com/kurniamisba/walletaccount",
   "devDependencies": {
     "brittle": "^3.1.3",
     "dotenv": "^16.0.3",
