@@ -1,5 +1,5 @@
 {
-  "name": "wallet-accounts",
+  "name": "walletaccount",
   "version": "1.0.2",
   "description": "Wallet with sub-accounts as a smart contract",
   "main": "index.js",
