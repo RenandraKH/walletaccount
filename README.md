@@ -1,4 +1,4 @@
-# wallet-accounts
+# wallet-aacounts
 
 Wallet with sub-accounts as a smart contract
 
