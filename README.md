@@ -3,7 +3,7 @@
 Wallet with sub-accounts as a smart contract
 
 ```
-npm i walletaacount
+npm i walletaccount
 ```
 
 It allows generating account addresses without deploying any contract (doesn't spend on fees).\
